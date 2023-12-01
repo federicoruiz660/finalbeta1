@@ -1,0 +1,12 @@
+/* Estilo para las imágenes en la tabla */
+table img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+
+
+/* Estilo para las imágenes en el formulario */
+.form-image {
+    max-width: 100px;
+    max-height: 100px;
+  }
